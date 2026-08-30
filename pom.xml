@@ -67,6 +67,11 @@
                 <version>${jacoco.version}</version>
                 <executions>
                     <execution>
+                        <configuration>
+                            <excludes>
+                                <exclude>net/sf/jsqlparser/**</exclude>
+                            </excludes>
+                        </configuration>
                         <goals>
                             <goal>prepare-agent</goal>
                         </goals>

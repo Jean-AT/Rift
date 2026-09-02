@@ -4,9 +4,9 @@
 
 As of 2026-09-01:
 
-- Completed: T1-T10
-- Next work block: T11-T12
-- Remaining to close v0.1: T11-T22
+- Completed: T1-T11
+- Next work block: T12
+- Remaining to close v0.1: T12-T22
 
 The project now has:
 

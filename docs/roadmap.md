@@ -1,5 +1,20 @@
 # Roadmap
 
+## Current status
+
+As of 2026-09-01:
+
+- Completed: T1-T11
+- Next work block: T12
+- Remaining to close v0.1: T12-T22
+
+The project now has:
+
+- a working CLI scaffold,
+- executable packaging,
+- SQL Server parser normalization,
+- ticket tracking under `docs/tickets.md`.
+
 ## v0.1 phases
 
 ### Phase 0: project foundation
@@ -46,4 +61,3 @@
 - JSON output.
 - Directory scanning.
 - Rule explanations and catalog command.
-
